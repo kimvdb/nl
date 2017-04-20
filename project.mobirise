@@ -26,7 +26,7 @@
     "cookiesAlert": "",
     "google-analytics": "",
     "versionFirst": "3.12.1",
-    "uniqCompNum": 43,
+    "uniqCompNum": 47,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -500,7 +500,7 @@
             "paddingBottom": "1",
             "bgColor": "#fff"
           },
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"ameodes.html\" data-toolbar=\"-mbrBtnMove\">Ameode's</a> <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"feytis.html\" data-toolbar=\"-mbrBtnMove\">Feyti's</a> <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"https://mobirise.com/mobirise-free-mac.zip\" data-toolbar=\"-mbrBtnMove\">Nylon en interpretatie's</a> <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"https://mobirise.com/mobirise-free-mac.zip\" data-toolbar=\"-mbrBtnMove\">Glas</a>"
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"ameodes.html\" data-toolbar=\"-mbrBtnMove\">Ameode's</a> <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"feytis.html\" data-toolbar=\"-mbrBtnMove\">Feyti's</a> <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"nyloneninterpretaties.html\" data-toolbar=\"-mbrBtnMove\">Nylon en interpretatie's</a> <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"glas.html\" data-toolbar=\"-mbrBtnMove\">Glas</a>"
         },
         {
           "_inherit": "gallery1",
@@ -806,7 +806,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"werk.html\" data-toolbar=\"-mbrBtnMove\">Terug naar 'Werk'</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"feytis.html\" data-toolbar=\"-mbrBtnMove\">Feyti's</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"nyloneninterpretaties.html\" data-toolbar=\"-mbrBtnMove\">Nylon en interpretaties</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://mobirise.com/mobirise-free-mac.zip\" data-toolbar=\"-mbrBtnMove\">Glas</a>"
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"werk.html\" data-toolbar=\"-mbrBtnMove\">Terug naar 'Werk'</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"feytis.html\" data-toolbar=\"-mbrBtnMove\">Feyti's</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"nyloneninterpretaties.html\" data-toolbar=\"-mbrBtnMove\">Nylon en interpretaties</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"glas.html\" data-toolbar=\"-mbrBtnMove\">Glas</a>"
         }
       ]
     },
@@ -814,7 +814,7 @@
       "settings": {
         "title": "Contact",
         "meta_descr": "",
-        "order": 7
+        "order": 8
       },
       "components": [
         {
@@ -1241,7 +1241,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"werk.html\" data-toolbar=\"-mbrBtnMove\">Terug naar 'Werk'</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"ameodes.html\" data-toolbar=\"-mbrBtnMove\">Ameodes</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"nyloneninterpretaties.html\" data-toolbar=\"-mbrBtnMove\">Nylon en interpretaties</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://mobirise.com/mobirise-free-mac.zip\" data-toolbar=\"-mbrBtnMove\">Glas</a>"
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"werk.html\" data-toolbar=\"-mbrBtnMove\">Terug naar 'Werk'</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"ameodes.html\" data-toolbar=\"-mbrBtnMove\">Ameodes</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"nyloneninterpretaties.html\" data-toolbar=\"-mbrBtnMove\">Nylon en interpretaties</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"glas.html\" data-toolbar=\"-mbrBtnMove\">Glas</a>"
         }
       ]
     },
@@ -1509,7 +1509,235 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"werk.html\" data-toolbar=\"-mbrBtnMove\">Terug naar 'Werk'</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"ameodes.html\" data-toolbar=\"-mbrBtnMove\">Ameodes</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"feytis.html\" data-toolbar=\"-mbrBtnMove\">Feyti's</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://mobirise.com/mobirise-free-mac.zip\" data-toolbar=\"-mbrBtnMove\">Glas</a>"
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"werk.html\" data-toolbar=\"-mbrBtnMove\">Terug naar 'Werk'</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"ameodes.html\" data-toolbar=\"-mbrBtnMove\">Ameodes</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"feytis.html\" data-toolbar=\"-mbrBtnMove\">Feyti's</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"glas.html\" data-toolbar=\"-mbrBtnMove\">Glas</a>"
+        }
+      ]
+    },
+    "glas.html": {
+      "settings": {
+        "title": "Glas",
+        "meta_descr": "",
+        "order": 7
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-19",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "",
+          "meta": ""
+        },
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-family": "'Roboto', sans-serif"
+            },
+            ".link": {
+              "font-size": "1.15rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.245rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-17",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": "1.15",
+            "fontName": {
+              "name": "Roboto",
+              "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "css": "'Roboto', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-wit.gif",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"over.html\">Over</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"werk.html\">Werk</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery2",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": 4,
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/glas-werk4-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/glas-werk4-2000x1500.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/glas-werk4-1-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/glas-werk4-1-2000x1500.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/glas-werk3-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/glas-werk3-2000x1500.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/glas-werk5-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/glas-werk5-2000x1500.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/glas-werk2-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/glas-werk2-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/thumb-dsc1093-2000x1325-800x530.jpg",
+                "image": "@PROJECT_PATH@/assets/images/thumb-dsc1093-2000x1325.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/thumb-dsc1102-2000x1325-800x530.jpg",
+                "image": "@PROJECT_PATH@/assets/images/thumb-dsc1102-2000x1325.jpg",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ],
+            "spacing": "1",
+            "showText": false,
+            "filter": false,
+            "bgColor": "fff",
+            "filterBgColor": false,
+            "fullWidth": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery2-18",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-1a",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"werk.html\" data-toolbar=\"-mbrBtnMove\">Terug naar 'Werk'</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"ameodes.html\" data-toolbar=\"-mbrBtnMove\">Ameodes</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"feytis.html\" data-toolbar=\"-mbrBtnMove\">Feyti's</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"nyloneninterpretaties.html\" data-toolbar=\"-mbrBtnMove\">Nylon en interpretaties</a>"
         }
       ]
     }
