@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site 3de bachelor NL",
-    "currentPage": "home.html",
+    "currentPage": "nyloneninterpretaties.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1356,14 +1356,14 @@
             "paddingBottom": 0,
             "images": [
               {
-                "tags": "Interpretaties",
+                "tags": "Nylon",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/thumb-dsc1014-2000x1325-800x530.jpg",
                 "image": "@PROJECT_PATH@/assets/images/thumb-dsc1014-2000x1325.jpg",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Nylon",
@@ -1443,7 +1443,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/thumb-dsc1047-2000x1325-800x530.jpg",
                 "image": "@PROJECT_PATH@/assets/images/thumb-dsc1047-2000x1325.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Interpretaties",
