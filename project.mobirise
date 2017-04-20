@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site 3de bachelor NL",
-    "currentPage": "werk.html",
+    "currentPage": "home.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -26,7 +26,7 @@
     "cookiesAlert": "",
     "google-analytics": "",
     "versionFirst": "3.12.1",
-    "uniqCompNum": 38,
+    "uniqCompNum": 43,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -806,7 +806,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"werk.html\" data-toolbar=\"-mbrBtnMove\">Terug naar 'Werk'</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"feytis.html\" data-toolbar=\"-mbrBtnMove\">Feyti's</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://mobirise.com/mobirise-free-mac.zip\" data-toolbar=\"-mbrBtnMove\">Nylon en interpretaties</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://mobirise.com/mobirise-free-mac.zip\" data-toolbar=\"-mbrBtnMove\">Glas</a>"
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"werk.html\" data-toolbar=\"-mbrBtnMove\">Terug naar 'Werk'</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"feytis.html\" data-toolbar=\"-mbrBtnMove\">Feyti's</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"nyloneninterpretaties.html\" data-toolbar=\"-mbrBtnMove\">Nylon en interpretaties</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://mobirise.com/mobirise-free-mac.zip\" data-toolbar=\"-mbrBtnMove\">Glas</a>"
         }
       ]
     },
@@ -814,7 +814,7 @@
       "settings": {
         "title": "Contact",
         "meta_descr": "",
-        "order": 6
+        "order": 7
       },
       "components": [
         {
@@ -1235,13 +1235,281 @@
             "Theme"
           ],
           "_name": "buttons1",
-          "_anchor": "buttons1-11",
+          "_anchor": "buttons1-16",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"werk.html\" data-toolbar=\"-mbrBtnMove\">Terug naar 'Werk'</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"feytis.html\" data-toolbar=\"-mbrBtnMove\">Ameodes</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://mobirise.com/mobirise-free-mac.zip\" data-toolbar=\"-mbrBtnMove\">Nylon en interpretaties</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://mobirise.com/mobirise-free-mac.zip\" data-toolbar=\"-mbrBtnMove\">Glas</a>"
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"werk.html\" data-toolbar=\"-mbrBtnMove\">Terug naar 'Werk'</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"ameodes.html\" data-toolbar=\"-mbrBtnMove\">Ameodes</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"nyloneninterpretaties.html\" data-toolbar=\"-mbrBtnMove\">Nylon en interpretaties</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://mobirise.com/mobirise-free-mac.zip\" data-toolbar=\"-mbrBtnMove\">Glas</a>"
+        }
+      ]
+    },
+    "nyloneninterpretaties.html": {
+      "settings": {
+        "title": "Nylon en interpretaties",
+        "meta_descr": "",
+        "order": 6
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-family": "'Roboto', sans-serif"
+            },
+            ".link": {
+              "font-size": "1.15rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.245rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-12",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": "1.15",
+            "fontName": {
+              "name": "Roboto",
+              "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "css": "'Roboto', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-wit.gif",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"over.html\">Over</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"werk.html\">Werk</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery4",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": 0,
+            "images": [
+              {
+                "tags": "Interpretaties",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/thumb-dsc1014-2000x1325-800x530.jpg",
+                "image": "@PROJECT_PATH@/assets/images/thumb-dsc1014-2000x1325.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Nylon",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/thumb-dsc1015-2000x1325-800x530.jpg",
+                "image": "@PROJECT_PATH@/assets/images/thumb-dsc1015-2000x1325.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Nylon",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/thumb-dsc1019-2000x1325-800x530.jpg",
+                "image": "@PROJECT_PATH@/assets/images/thumb-dsc1019-2000x1325.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Nylon",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/thumb-dsc1020-2000x1325-800x530.jpg",
+                "image": "@PROJECT_PATH@/assets/images/thumb-dsc1020-2000x1325.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Nylon",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/thumb-dsc1024-2000x1325-800x530.jpg",
+                "image": "@PROJECT_PATH@/assets/images/thumb-dsc1024-2000x1325.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Nylon",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/thumb-dsc1026-2000x1325-800x530.jpg",
+                "image": "@PROJECT_PATH@/assets/images/thumb-dsc1026-2000x1325.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Nylon",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/thumb-dsc1029-2000x1325-800x530.jpg",
+                "image": "@PROJECT_PATH@/assets/images/thumb-dsc1029-2000x1325.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Nylon",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/thumb-dsc1036-2000x1325-800x530.jpg",
+                "image": "@PROJECT_PATH@/assets/images/thumb-dsc1036-2000x1325.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Interpretaties",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/thumb-dsc1047-2000x1325-800x530.jpg",
+                "image": "@PROJECT_PATH@/assets/images/thumb-dsc1047-2000x1325.jpg",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Interpretaties",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/thumb-dsc1040-2000x1325-800x530.jpg",
+                "image": "@PROJECT_PATH@/assets/images/thumb-dsc1040-2000x1325.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Interpretaties",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/thumb-dsc1002-2000x1325-800x530.jpg",
+                "image": "@PROJECT_PATH@/assets/images/thumb-dsc1002-2000x1325.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Interpretaties",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/thumb-dsc1004-2000x1325-800x530.jpg",
+                "image": "@PROJECT_PATH@/assets/images/thumb-dsc1004-2000x1325.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Interpretaties",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/thumb-dsc1011-2000x1325-800x530.jpg",
+                "image": "@PROJECT_PATH@/assets/images/thumb-dsc1011-2000x1325.jpg",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ],
+            "spacing": "1",
+            "showText": false,
+            "filter": true,
+            "bgColor": "fff",
+            "filterBgColor": false,
+            "fullWidth": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery4-13",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-15",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"werk.html\" data-toolbar=\"-mbrBtnMove\">Terug naar 'Werk'</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"ameodes.html\" data-toolbar=\"-mbrBtnMove\">Ameodes</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"feytis.html\" data-toolbar=\"-mbrBtnMove\">Feyti's</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://mobirise.com/mobirise-free-mac.zip\" data-toolbar=\"-mbrBtnMove\">Glas</a>"
         }
       ]
     }
