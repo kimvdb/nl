@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site 3de bachelor NL",
-    "currentPage": "feytis.html",
+    "currentPage": "werk.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -500,7 +500,7 @@
             "paddingBottom": "1",
             "bgColor": "#fff"
           },
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"ameodes.html\" data-toolbar=\"-mbrBtnMove\">Ameode's</a> <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"https://mobirise.com/mobirise-free-mac.zip\" data-toolbar=\"-mbrBtnMove\">Feyti's</a> <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"https://mobirise.com/mobirise-free-mac.zip\" data-toolbar=\"-mbrBtnMove\">Nylon en interpretatie's</a> <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"https://mobirise.com/mobirise-free-mac.zip\" data-toolbar=\"-mbrBtnMove\">Glas</a>"
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"ameodes.html\" data-toolbar=\"-mbrBtnMove\">Ameode's</a> <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"feytis.html\" data-toolbar=\"-mbrBtnMove\">Feyti's</a> <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"https://mobirise.com/mobirise-free-mac.zip\" data-toolbar=\"-mbrBtnMove\">Nylon en interpretatie's</a> <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"https://mobirise.com/mobirise-free-mac.zip\" data-toolbar=\"-mbrBtnMove\">Glas</a>"
         },
         {
           "_inherit": "gallery1",
