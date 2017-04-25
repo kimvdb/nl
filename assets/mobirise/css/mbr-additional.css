@@ -2,6 +2,7 @@
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
 
 
 
@@ -914,8 +915,9 @@ h6,
   color: #c0a375!important;
 }
 
-#header3-19 .mbr-section-title,
-#header3-19 .mbr-section-subtitle {
+
+#header3-1i .mbr-section-title,
+#header3-1i .mbr-section-subtitle {
   text-align: center;
 }
 #ext_menu-17 .hide-buttons .nav-btn {
@@ -979,4 +981,8 @@ h6,
 #ext_menu-17 .link[aria-expanded="true"],
 #ext_menu-17 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
+}
+#content1-1j P {
+  font-family: 'Oswald', sans-serif;
+  font-size: 22px;
 }
