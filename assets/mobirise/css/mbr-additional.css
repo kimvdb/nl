@@ -731,6 +731,7 @@ h6,
 
 
 
+
 #header3-1q .mbr-section-title,
 #header3-1q .mbr-section-subtitle {
   text-align: center;
@@ -743,6 +744,9 @@ h6,
   font-family: 'Oswald', sans-serif;
   text-align: right;
   font-size: 36px;
+}
+#header3-1x SMALL {
+  font-family: 'Oswald', sans-serif;
 }
 #ext_menu-1o .hide-buttons .nav-btn {
   display: none !important;
@@ -820,6 +824,7 @@ h6,
 
 
 
+
 #header3-20 .mbr-section-title,
 #header3-20 .mbr-section-subtitle {
   text-align: center;
@@ -893,12 +898,20 @@ h6,
 #header3-2a H3 {
   font-family: 'Oswald', sans-serif;
 }
+#header3-2a SMALL {
+  font-family: 'Oswald', sans-serif;
+}
 #content1-21 P {
   font-family: 'Oswald', sans-serif;
 }
 #buttons1-23 .btn {
   font-family: 'Oswald', sans-serif;
 }
+
+
+
+
+
 
 #header3-26 .mbr-section-title,
 #header3-26 .mbr-section-subtitle {
@@ -965,4 +978,23 @@ h6,
 #ext_menu-24 .link[aria-expanded="true"],
 #ext_menu-24 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
+}
+#header3-2b .mbr-section-title,
+#header3-2b .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-2b H3 {
+  font-family: 'Oswald', sans-serif;
+}
+#header3-2b SMALL {
+  font-family: 'Oswald', sans-serif;
+}
+#content1-27 P {
+  font-family: 'Oswald', sans-serif;
+}
+#gallery4-28 LI {
+  font-family: 'Oswald', sans-serif;
+}
+#buttons1-29 .btn {
+  font-family: 'Oswald', sans-serif;
 }
