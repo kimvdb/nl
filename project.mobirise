@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site 3de bachelor NL",
-    "currentPage": "glas.html",
+    "currentPage": "ameodes.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -26,7 +26,7 @@
     "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
     "google-analytics": "<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\r\n\r\n  ga('create', 'UA-77106520-1', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>",
     "versionFirst": "3.12.1",
-    "uniqCompNum": 56,
+    "uniqCompNum": 57,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -700,7 +700,7 @@
           ],
           "_name": "gallery4",
           "_params": {
-            "paddingTop": "1",
+            "paddingTop": 0,
             "paddingBottom": 0,
             "images": [
               {
@@ -775,41 +775,76 @@
               },
               {
                 "tags": "2017",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/a7-800x600.png",
                 "image": "@PROJECT_PATH@/assets/images/a7.gif",
+                "caption": "Type caption here",
                 "active": false
               },
               {
                 "tags": "Snedes",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/as1-zion-800x600.png",
                 "image": "@PROJECT_PATH@/assets/images/as1-zion.gif",
+                "caption": "Type caption here",
                 "active": false
               },
               {
                 "tags": "Snedes",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/ci-1-800x600.png",
                 "image": "@PROJECT_PATH@/assets/images/ci-1.gif",
-                "active": false
-              },
-              {
-                "tags": "Snedes",
-                "image": "@PROJECT_PATH@/assets/images/as3-xianti.gif",
-                "active": false
-              },
-              {
-                "tags": "Snedes",
-                "image": "@PROJECT_PATH@/assets/images/as4-wido.gif",
-                "active": false
-              },
-              {
-                "tags": "Snedes",
-                "image": "@PROJECT_PATH@/assets/images/as5-vina.gif",
-                "active": false
-              },
-              {
-                "tags": "Snedes",
-                "image": "@PROJECT_PATH@/assets/images/as6-ua.gif",
+                "caption": "Type caption here",
                 "active": true
+              },
+              {
+                "tags": "Snedes",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/as3-xianti-800x600.png",
+                "image": "@PROJECT_PATH@/assets/images/as3-xianti.gif",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Snedes",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/as4-wido-800x600.png",
+                "image": "@PROJECT_PATH@/assets/images/as4-wido.gif",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Snedes",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/as5-vina-800x600.png",
+                "image": "@PROJECT_PATH@/assets/images/as5-vina.gif",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Snedes",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/as6-ua-800x600.png",
+                "image": "@PROJECT_PATH@/assets/images/as6-ua.gif",
+                "caption": "Type caption here",
+                "active": false
               }
             ],
-            "spacing": "1",
+            "spacing": 1,
             "showText": false,
             "filter": true,
             "bgColor": "fff",
@@ -817,9 +852,9 @@
             "fullWidth": true,
             "showBullets": true
           },
-          "_anchor": "gallery4-e",
+          "_anchor": "gallery4-1k",
           "articleLayout": false,
-          "allItem": "All"
+          "allItem": "Alles"
         },
         {
           "_tags": [
@@ -1690,20 +1725,20 @@
             "Theme"
           ],
           "_name": "content1",
-          "_anchor": "content1-1j",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "<p><b>Project 'Reflectie en Projectie'</b></p><p><br></p>",
           "_styles": {
             "P": {
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
               "font-size": "22px"
             }
-          }
+          },
+          "_anchor": "content1-1j",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><b>Project 'Reflectie en Projectie'</b></p><p><br></p>"
         },
         {
           "_tags": [
