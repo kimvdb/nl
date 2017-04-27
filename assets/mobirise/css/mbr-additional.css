@@ -721,6 +721,10 @@ h6,
   font-family: 'Roboto', sans-serif;
 }
 
+#header3-1q .mbr-section-title,
+#header3-1q .mbr-section-subtitle {
+  text-align: center;
+}
 #ext_menu-1o .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -782,8 +786,4 @@ h6,
 #ext_menu-1o .link[aria-expanded="true"],
 #ext_menu-1o .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
-}
-#header3-1q .mbr-section-title,
-#header3-1q .mbr-section-subtitle {
-  text-align: center;
 }

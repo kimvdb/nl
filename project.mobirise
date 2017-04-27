@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site 3de bachelor NL",
-    "currentPage": "ameodes.html",
+    "currentPage": "werk.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -26,7 +26,7 @@
     "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
     "google-analytics": "<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\r\n\r\n  ga('create', 'UA-77106520-1', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>",
     "versionFirst": "3.12.1",
-    "uniqCompNum": 65,
+    "uniqCompNum": 67,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -494,13 +494,13 @@
             "Theme"
           ],
           "_name": "buttons1",
-          "_anchor": "buttons1-c",
+          "_anchor": "buttons1-1u",
           "_params": {
             "paddingTop": 1,
-            "paddingBottom": "1",
+            "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"ameodes.html\" data-toolbar=\"-mbrBtnMove\">Ameode's</a> <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"feytis.html\" data-toolbar=\"-mbrBtnMove\">Feyti's</a> <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"nyloneninterpretaties.html\" data-toolbar=\"-mbrBtnMove\">Nylon en interpretatie's</a> <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"glas.html\" data-toolbar=\"-mbrBtnMove\">Glas</a>"
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"ameodes.html\" data-toolbar=\"-mbrBtnMove\">Ameode</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://mobirise.com/mobirise-free-mac.zip\" data-toolbar=\"-mbrBtnMove\">Feyti</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://mobirise.com/mobirise-free-mac.zip\" data-toolbar=\"-mbrBtnMove\">Nylon en interpretaties</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://mobirise.com/mobirise-free-mac.zip\" data-toolbar=\"-mbrBtnMove\">Glas</a>"
         },
         {
           "_inherit": "gallery1",
@@ -822,6 +822,26 @@
       },
       "components": [
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1q",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "2",
+            "bgColor": "#fff",
+            "showMeta": false
+          },
+          "title": "",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
           "_inherit": "menu",
           "_tags": [
             "Theme"
@@ -915,26 +935,6 @@
           "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"home.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"over.html\">Over</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"werk.html\">Werk</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-1q",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": "2",
-            "bgColor": "#fff",
-            "showMeta": false
-          },
-          "title": "Title with Solid Background Color",
-          "meta": "By John Smith posted July 20, 2016"
-        },
-        {
           "_tags": [
             "Theme"
           ],
@@ -962,8 +962,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/a1-aamor-800x600.png",
-                "image": "@PROJECT_PATH@/assets/images/a1-aamor.gif",
+                "thumb": "@PROJECT_PATH@/assets/images/a1-aamor-2-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/a1-aamor-2-2000x1500.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -972,8 +972,138 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/a1-aamor-1-800x600.png",
-                "image": "@PROJECT_PATH@/assets/images/a1-aamor-1.gif",
+                "thumb": "@PROJECT_PATH@/assets/images/a1-aamor-3-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/a1-aamor-3-2000x1500.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "2016",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/a2-beau-1-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/a2-beau-1-2000x1500.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "2016",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/a3-caia-1-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/a3-caia-1-2000x1500.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "2017",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/a4-1-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/a4-1-2000x1500.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "2017",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/a5-2-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/a5-2-2000x1500.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "2017",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/a5-3-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/a5-3-2000x1500.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "2017",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/a6-1-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/a6-1-2000x1500.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "2017",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/a7-1-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/a7-1-2000x1500.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "2016 , Snedes",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/as1-zion-1-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/as1-zion-1-2000x1500.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "2016 , Snedes",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/ci-1-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ci-1-2000x1500.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "2016 , Snedes",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/as3-xianti-1-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/as3-xianti-1-2000x1500.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "2016 , Snedes",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/as4-wido-1-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/as4-wido-1-2000x1500.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "2016 , Snedes",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/as5-vina-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/as5-vina-2000x1500.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "2016 , Snedes",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/as6-ua-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/as6-ua-2000x1500.jpg",
                 "caption": "Type caption here",
                 "active": true
               }
@@ -986,7 +1116,7 @@
             "fullWidth": true,
             "showBullets": true
           },
-          "_anchor": "gallery4-1s",
+          "_anchor": "gallery4-1t",
           "articleLayout": false,
           "allItem": "All"
         }
