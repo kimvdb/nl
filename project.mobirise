@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site 3de bachelor NL",
-    "currentPage": "werk.html",
+    "currentPage": "over.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -285,13 +285,13 @@
           "_name": "header2",
           "_styles": {
             ".mbr-section-title": {
-              "font-family": "'Roboto', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
               "text-align": "center"
             },
             ".mbr-section-text": {
-              "font-family": "'Roboto', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             },
             ".mbr-section-text P": {
               "text-align": "left"
@@ -341,7 +341,7 @@
             }
           },
           "title": "Over",
-          "text": "<p><br></p>Kimberly Vanderbeken zit momenteel in haar derde bachelor 'Glas en Keramiek', dit te Sint-Lucas Beeldende Kunsten te Gent (BE).<span style=\"font-size: 1rem; line-height: 1.5;\">&nbsp;</span><br><span style=\"font-size: 1rem; line-height: 1.5;\"><br></span><p>De reden waarom ik voor deze richting gekozen heb, is omdat dit een van de enige mediums is waar het fysieke contact tussen het materiaal en het menselijk lichaam maximaal is.&nbsp;<br>Naast glas en keramiek, &nbsp;maak ik ook gebruik van andere materialen zoals nylon en schuim afhankelijk van de criteria van een werk. Wanneer het &nbsp;aan het uiteindelijke doel van het werk of aan het uiterlijk ervan bijdraagt. Soms past keramiek &nbsp;of glas &nbsp;niet bij m'n idee en is een ander materiaal hier geschikter voor.&nbsp;<span style=\"font-size: 1rem; line-height: 1.5;\">Echter is keramiek het materiaal die ik meer voor handen neem, omdat ik er &nbsp;meer voeling mee heb en ervaring.</span></p>",
+          "text": "<p><br></p>Kimberly Vanderbeken zit momenteel in haar derde bachelor 'Glas en Keramiek', dit te Sint-Lucas Beeldende Kunsten te Gent (BE).<span style=\"font-size: 1rem; line-height: 1.5;\">&nbsp;Ze zal eind dit jaar haar bachelor diploma 'Vrije Kunsten' behalen.&nbsp;</span><br><br><span style=\"font-size: 1rem; line-height: 1.5;\">Hiervoor heeft ze geen artistieke secundaire opleiding genoten, maar is afgestudeerd in 'Wiskunde-Wetenschappen' te Sint-Janberchmanscollege te Avelgem.&nbsp;</span>Wel heeft ze altijd de drang gehad om met haar handen bezig te zijn. Ze ging vroeger ook &nbsp;naar &nbsp;het DKO, meer specifiek GAVKA te Avelgem.&nbsp;<br><span style=\"font-size: 1rem; line-height: 1.5;\"><br></span><span style=\"font-size: 1rem; line-height: 1.5;\">Ze heeft dan erna voor deze opleiding gekozen omdat dit een van de enige mediums is waar het fysieke contact tussen materiaal en menselijk lichaam maximaal is.&nbsp;<br></span><p><br></p><br><p><br></p><br><p><br></p>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         }
       ]
@@ -477,8 +477,9 @@
           "_name": "content1",
           "_styles": {
             "P": {
-              "font-family": "'Roboto', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "20px"
             }
           },
           "_anchor": "content1-b",
@@ -487,7 +488,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>Mijn werk kan je momenteel in twee groepen onderverdelen: Ameode's en Feyti's. </p><p><br></p><p><br></p><p><br></p><p>Controle is altijd al een factor geweest die aanwezig was.&nbsp;</p>"
+          "text": "<p>Het medium waar ze vooral gebruikt van maakt is keramiek. Dit omdat ze meer voeling heeft met het materiaal en de processen eerder traag zijn in tegenstelling tot glas. Naast glas en keramiek, maakt ze ook gebruik van andere materialen zoals nylon en schuim afhankelijk van de criteria waaraan een werk moet voldoen. &nbsp;Soms past keramiek of glas minder bij het vooropgestelde idee en is een ander materiaal hier geschikter voor.&nbsp;</p><p><br></p><p>Controle is altijd de factor die terugkomt in haar werk. Ze zoekt naar de grens van controle en loslaten. Je kan haar keramisch werk in twee grote groepen indelen: 'Ameode' en 'Feyti'.</p><p><br></p><p><br></p>"
         },
         {
           "_tags": [
@@ -500,7 +501,13 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"ameode.html\" data-toolbar=\"-mbrBtnMove\">Ameode</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"feyti.html\" data-toolbar=\"-mbrBtnMove\">Feyti</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"nyloneninterpretaties.html\" data-toolbar=\"-mbrBtnMove\">Nylon en interpretaties</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://mobirise.com/mobirise-free-mac.zip\" data-toolbar=\"-mbrBtnMove\">Glas</a>"
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"ameode.html\" data-toolbar=\"-mbrBtnMove\">Ameode</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"feyti.html\" data-toolbar=\"-mbrBtnMove\">Feyti</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"nyloneninterpretaties.html\" data-toolbar=\"-mbrBtnMove\">Nylon en interpretaties</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://mobirise.com/mobirise-free-mac.zip\" data-toolbar=\"-mbrBtnMove\">Glas</a>",
+          "_styles": {
+            ".btn": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            }
+          }
         },
         {
           "_inherit": "gallery1",
@@ -517,8 +524,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/opbouw-ii-2000x2666-800x1066.jpg",
-                "image": "@PROJECT_PATH@/assets/images/opbouw-ii-2000x2666.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/opbouw-i-2000x2666-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/opbouw-i-2000x2666.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -527,10 +534,10 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/opbouw-i-2000x2666-800x1066.jpg",
-                "image": "@PROJECT_PATH@/assets/images/opbouw-i-2000x2666.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/nylon-i-2000x2666-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/nylon-i-2000x2666.jpg",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Animated",
@@ -547,10 +554,10 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/opbouw-iv-2000x2666-800x1066.jpg",
-                "image": "@PROJECT_PATH@/assets/images/opbouw-iv-2000x2666.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/schuim-i-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/schuim-i-2000x1500.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               }
             ],
             "spacing": "1",

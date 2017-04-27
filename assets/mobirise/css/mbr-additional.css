@@ -551,15 +551,16 @@ h6,
   color: #c0a375!important;
 }
 #header2-3 .mbr-section-title {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Oswald', sans-serif;
   text-align: center;
 }
 #header2-3 .mbr-section-text {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Oswald', sans-serif;
 }
 #header2-3 .mbr-section-text P {
   text-align: left;
 }
+
 
 
 
@@ -633,7 +634,11 @@ h6,
   font-family: 'Roboto', sans-serif;
 }
 #content1-b P {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Oswald', sans-serif;
+  font-size: 20px;
+}
+#buttons1-1u .btn {
+  font-family: 'Oswald', sans-serif;
 }
 
 
