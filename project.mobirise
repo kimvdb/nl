@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site 3de bachelor NL",
-    "currentPage": "glas.html",
+    "currentPage": "werk.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -479,7 +479,7 @@
             "P": {
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "font-size": "20px"
+              "font-size": "17px"
             }
           },
           "_anchor": "content1-b",
@@ -1344,19 +1344,19 @@
             "Theme"
           ],
           "_name": "content1",
+          "_styles": {
+            "P": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            }
+          },
           "_anchor": "content1-21",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>Hier is de grens van controle en loslaten enorm belangrijk. Deze werken zijn geïnspireerd op morbide obesitas. Ze beschouwt deze niet als een afbeelding en afschuw van de ziekte of beter van de mensen die hieraan lijden. Het is voor haar een ziekte eigen aan de maatschappij waarin we nu leven. Een ziekte waarin alle opgekropte emoties aan het uiterlijk zichtbaar worden.&nbsp;</p><p><br></p><p>Feyti zijn abstracte weergaves van die overschot aan vet, er is geen enkel menselijk herkenningspunt. Het zijn abstracte lichamen die ontstaan in de maatschappij waar sociale media prominent aanwezig zijn. Waar isolement steeds vaker voorkomt in een maatschappij waar de virtuele wereld zegeviert en onrealistische schoonheidsidealen voorop geplaats worden. Dit zijn in de eerste plaats een herinnering aan al die feiten en niet aan de afschuw die rond obesitas bestaan. Noch is het haar bedoeling om het op te hemelen.</p>",
-          "_styles": {
-            "P": {
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
-            }
-          }
+          "text": "<p>Hier is de grens van controle en loslaten enorm belangrijk. Deze werken zijn geïnspireerd op morbide obesitas. Ze beschouwt deze niet als een afbeelding en afschuw van de ziekte of beter van de mensen die hieraan lijden. Het is voor haar een ziekte eigen aan de maatschappij waarin we nu leven. Een ziekte waarin alle opgekropte emoties aan het uiterlijk zichtbaar worden.&nbsp;</p><p><br></p><p>Feyti zijn abstracte weergaves van die overschot aan vet, er is geen enkel menselijk herkenningspunt. Het zijn abstracte lichamen die ontstaan in de maatschappij waar sociale media prominent aanwezig zijn. Waar isolement steeds vaker voorkomt in een maatschappij waar de virtuele wereld zegeviert en onrealistische schoonheidsidealen voorop geplaats worden. Dit zijn in de eerste plaats een herinnering aan al die feiten en niet aan de afschuw die rond obesitas bestaan. Noch is het haar bedoeling om het op te hemelen.</p>"
         },
         {
           "_inherit": "gallery1",
@@ -1416,19 +1416,19 @@
             "Theme"
           ],
           "_name": "buttons1",
+          "_styles": {
+            ".btn": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            }
+          },
           "_anchor": "buttons1-23",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"werk.html\" data-toolbar=\"-mbrBtnMove\">Terug naar 'Werk'</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"ameode.html\" data-toolbar=\"-mbrBtnMove\">Ameode</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"nyloneninterpretaties.html\" data-toolbar=\"-mbrBtnMove\">Nylon en interpretaties</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"glas.html\" data-toolbar=\"-mbrBtnMove\">Glas</a>",
-          "_styles": {
-            ".btn": {
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
-            }
-          }
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"werk.html\" data-toolbar=\"-mbrBtnMove\">Terug naar 'Werk'</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"ameode.html\" data-toolbar=\"-mbrBtnMove\">Ameode</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"nyloneninterpretaties.html\" data-toolbar=\"-mbrBtnMove\">Nylon en interpretaties</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"glas.html\" data-toolbar=\"-mbrBtnMove\">Glas</a>"
         }
       ]
     },
@@ -1585,19 +1585,19 @@
             "Theme"
           ],
           "_name": "content1",
+          "_styles": {
+            "P": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            }
+          },
           "_anchor": "content1-27",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>Deze werken zijn ontstaan als een manier om vormelijke inspiratie te geven voor haar werk 'Ameode'. Echter zijn ze uitgegroeid tot een zelfstandig iets. Het zijn soort van gezwellen en in zekere zin vetcellen. Daarna was het de bedoeling om dezelfde beeldtaal te verkrijgen in keramiek. Door doeken gevuld met klei op te hangen en te bewerken met touwen errond. Er ontstaan echter iets anders. Ze zijn wel gelinked aan elkaar maar zijn twee op elkaar staande werken.&nbsp;</p><p><br></p><p>Hier stond toeval en nochalantie hoger dan controle. De werken werden niet met een plan of naar een voorstudie gemaakt. Het is spontaner gemaakt zonder al te veel bij na te denken.&nbsp;</p>",
-          "_styles": {
-            "P": {
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
-            }
-          }
+          "text": "<p>Deze werken zijn ontstaan als een manier om vormelijke inspiratie te geven voor haar werk 'Ameode'. Echter zijn ze uitgegroeid tot een zelfstandig iets. Het zijn soort van gezwellen en in zekere zin vetcellen. Daarna was het de bedoeling om dezelfde beeldtaal te verkrijgen in keramiek. Door doeken gevuld met klei op te hangen en te bewerken met touwen errond. Er ontstaan echter iets anders. Ze zijn wel gelinked aan elkaar maar zijn twee op elkaar staande werken.&nbsp;</p><p><br></p><p>Hier stond toeval en nochalantie hoger dan controle. De werken werden niet met een plan of naar een voorstudie gemaakt. Het is spontaner gemaakt zonder al te veel bij na te denken.&nbsp;</p>"
         },
         {
           "_inherit": "gallery1",
@@ -1605,6 +1605,12 @@
             "Theme"
           ],
           "_name": "gallery4",
+          "_styles": {
+            "LI": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            }
+          },
           "_params": {
             "paddingTop": 0,
             "paddingBottom": 0,
@@ -1750,32 +1756,26 @@
           },
           "_anchor": "gallery4-28",
           "articleLayout": false,
-          "allItem": "Alles",
-          "_styles": {
-            "LI": {
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
-            }
-          }
+          "allItem": "Alles"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "buttons1",
+          "_styles": {
+            ".btn": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            }
+          },
           "_anchor": "buttons1-29",
           "_params": {
             "paddingTop": "2",
             "paddingBottom": "2",
             "bgColor": "#fff"
           },
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"werk.html\" data-toolbar=\"-mbrBtnMove\">Terug naar 'Werk'</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"ameode.html\" data-toolbar=\"-mbrBtnMove\">Ameode</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"feyti.html\" data-toolbar=\"-mbrBtnMove\">Feyti</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"glas.html\" data-toolbar=\"-mbrBtnMove\">Glas</a>",
-          "_styles": {
-            ".btn": {
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
-            }
-          }
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"werk.html\" data-toolbar=\"-mbrBtnMove\">Terug naar 'Werk'</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"ameode.html\" data-toolbar=\"-mbrBtnMove\">Ameode</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"feyti.html\" data-toolbar=\"-mbrBtnMove\">Feyti</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"glas.html\" data-toolbar=\"-mbrBtnMove\">Glas</a>"
         }
       ]
     },
@@ -1932,19 +1932,19 @@
             "Theme"
           ],
           "_name": "content1",
+          "_styles": {
+            "P": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            }
+          },
           "_anchor": "content1-2g",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>Glas bestaat uit toepaslijker en decoratiever werk. Hier zijn de technieken van groot belang zoals p\bâte de verre en warm glas.&nbsp;</p>",
-          "_styles": {
-            "P": {
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
-            }
-          }
+          "text": "<p>Glas bestaat uit toepaslijker en decoratiever werk. Hier zijn de technieken van groot belang zoals p\bâte de verre en warm glas.&nbsp;</p>"
         },
         {
           "_inherit": "gallery1",
@@ -2024,13 +2024,6 @@
             "Theme"
           ],
           "_name": "content1",
-          "_anchor": "content1-2i",
-          "_params": {
-            "paddingTop": "3",
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "<p>Project 'Reflectie en Projectie' (Jaar: 2017)</p>",
           "_styles": {
             "P": {
               "font-family": "'Oswald', sans-serif",
@@ -2038,26 +2031,33 @@
               "font-size": "22px",
               "color": "#232323"
             }
-          }
+          },
+          "_anchor": "content1-2i",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>Project 'Reflectie en Projectie' (Jaar: 2017)</p>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "content1",
+          "_styles": {
+            "P": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            }
+          },
           "_anchor": "content1-2j",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>Dit was een project samen met Rietje Creve en Kellie Lippens. We kregen vier lichtbronnen (zaklamp, diaprojector, overheadprojector en beamer).</p><p> </p><p><br></p><p>Wij zijn met de beamer verder gegaan voor ons project. Zo hebben we besloten om met zo min mogelijk voorwerpen te werken en het witte vlak uit te breiden, om ons niet tot dat te beperken.</p><p> </p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">We hebben a.d.h.v. spiegels het witte vlak opengetrokken en de kleurvlakken te herhalen zodat het geheel toch samenhing. &nbsp;Voor ons was het namelijk erg belangrijk om in de ruimte te werken en dus de volledige ruimte &nbsp;mee in het beeld te betrekken.&nbsp;</span><br></p>",
-          "_styles": {
-            "P": {
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
-            }
-          }
+          "text": "<p>Dit was een project samen met Rietje Creve en Kellie Lippens. We kregen vier lichtbronnen (zaklamp, diaprojector, overheadprojector en beamer).</p><p> </p><p><br></p><p>Wij zijn met de beamer verder gegaan voor ons project. Zo hebben we besloten om met zo min mogelijk voorwerpen te werken en het witte vlak uit te breiden, om ons niet tot dat te beperken.</p><p> </p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">We hebben a.d.h.v. spiegels het witte vlak opengetrokken en de kleurvlakken te herhalen zodat het geheel toch samenhing. &nbsp;Voor ons was het namelijk erg belangrijk om in de ruimte te werken en dus de volledige ruimte &nbsp;mee in het beeld te betrekken.&nbsp;</span><br></p>"
         },
         {
           "_tags": [
@@ -2111,19 +2111,19 @@
             "Theme"
           ],
           "_name": "buttons1",
+          "_styles": {
+            ".btn": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            }
+          },
           "_anchor": "buttons1-2m",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"werk.html\" data-toolbar=\"-mbrBtnMove\">Terug naar 'Werk'</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"ameode.html\" data-toolbar=\"-mbrBtnMove\">Ameode</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"feyti.html\" data-toolbar=\"-mbrBtnMove\">Feyti&nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"nyloneninterpretaties.html\" data-toolbar=\"-mbrBtnMove\">Nylon en interpretaties</a>",
-          "_styles": {
-            ".btn": {
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
-            }
-          }
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"werk.html\" data-toolbar=\"-mbrBtnMove\">Terug naar 'Werk'</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"ameode.html\" data-toolbar=\"-mbrBtnMove\">Ameode</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"feyti.html\" data-toolbar=\"-mbrBtnMove\">Feyti&nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"nyloneninterpretaties.html\" data-toolbar=\"-mbrBtnMove\">Nylon en interpretaties</a>"
         }
       ]
     }
