@@ -728,6 +728,9 @@ h6,
 }
 
 
+
+
+
 #header3-1q .mbr-section-title,
 #header3-1q .mbr-section-subtitle {
   text-align: center;
@@ -802,6 +805,16 @@ h6,
 #ext_menu-1o .link[aria-expanded="true"],
 #ext_menu-1o .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
+}
+#content1-1r P {
+  text-align: left;
+  font-family: 'Oswald', sans-serif;
+}
+#gallery4-1t LI {
+  font-family: 'Oswald', sans-serif;
+}
+#buttons1-1v .btn {
+  font-family: 'Oswald', sans-serif;
 }
 
 #header3-20 .mbr-section-title,

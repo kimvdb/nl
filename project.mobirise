@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site 3de bachelor NL",
-    "currentPage": "over.html",
+    "currentPage": "ameode.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -495,19 +495,19 @@
             "Theme"
           ],
           "_name": "buttons1",
+          "_styles": {
+            ".btn": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            }
+          },
           "_anchor": "buttons1-1u",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"ameode.html\" data-toolbar=\"-mbrBtnMove\">Ameode</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"feyti.html\" data-toolbar=\"-mbrBtnMove\">Feyti</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"nyloneninterpretaties.html\" data-toolbar=\"-mbrBtnMove\">Nylon en interpretaties</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://mobirise.com/mobirise-free-mac.zip\" data-toolbar=\"-mbrBtnMove\">Glas</a>",
-          "_styles": {
-            ".btn": {
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
-            }
-          }
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"ameode.html\" data-toolbar=\"-mbrBtnMove\">Ameode</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"feyti.html\" data-toolbar=\"-mbrBtnMove\">Feyti</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"nyloneninterpretaties.html\" data-toolbar=\"-mbrBtnMove\">Nylon en interpretaties</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://mobirise.com/mobirise-free-mac.zip\" data-toolbar=\"-mbrBtnMove\">Glas</a>"
         },
         {
           "_inherit": "gallery1",
@@ -972,13 +972,20 @@
             "Theme"
           ],
           "_name": "content1",
+          "_styles": {
+            "P": {
+              "text-align": "left",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            }
+          },
           "_anchor": "content1-1r",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": "0",
             "bgColor": "#fff"
           },
-          "text": "<p>Bij ameode's werk ik vooral rond vormen, spanningsvelden en textuur.</p><p>Ze zijn geïnspireerd op interessante omtrekken van personen, dieren en objecten. Ik vertrek vanuit een ontwerp, een voorstudie om dan vervolgens de vorm te laten groeien vanuit de materie. Ik verander de vorm tijdens de opbouw zodanig dat het sterker word dan de originele vorm die ik voor ogen had. Het toeval toelaten in het proces waar er grote controle aan te pas komt.</p><p>Later van tijd ben ik deze vormen gaan beschouwen als levende wezens en ze beginnen doorsnijden met een mes. De huid open halen om zo spanning binnenin de vorm te creeëren. Ook hier kan je terug spelen met de controle van de insnedes: brut, krachtig, voorzichtig,...</p><p><br></p>"
+          "text": "<p>Hier werkt ze rond een vormonderzoek, spanningsvelden en textuur. Het werk is een organische vorm die uit gespannen lijnen bestaat. De inspiratie haalt ze uit omtrekken van mensen of dieren in een bepaalde houding.&nbsp;</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Ze vertrekt vanuit een 2D ontwerp om vervolgens een voorstudie in 3D te maken. De voorstudies zijn een houvast, maar legt de vorm niet vast. De vormen groeien en ontstaan vanuit de materie zelf. Dit doet ze door het continu aanpassen van de vorm tijdens het opbouwen. Ze wil het toeval toelaten in een proces waar grote controle aan te pas komt.&nbsp;</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Het zijn een voor een abstracte lichamen die ze later is gaan doorsnijden met een mes. De huid van het werk open halen om zo een contrast tussen recht en bol te creeëren binnen de vorm. Ook hier kan terug gespeeld worden met controle van de insnedes, brut, krachtig, voorzichtg, vervormen,...</span></p><p><br></p>"
         },
         {
           "_inherit": "gallery1",
@@ -986,6 +993,12 @@
             "Theme"
           ],
           "_name": "gallery4",
+          "_styles": {
+            "LI": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            }
+          },
           "_params": {
             "paddingTop": 0,
             "paddingBottom": 0,
@@ -1158,6 +1171,12 @@
             "Theme"
           ],
           "_name": "buttons1",
+          "_styles": {
+            ".btn": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            }
+          },
           "_anchor": "buttons1-1v",
           "_params": {
             "paddingTop": "3",
