@@ -998,3 +998,100 @@ h6,
 #buttons1-29 .btn {
   font-family: 'Oswald', sans-serif;
 }
+
+
+
+
+
+
+
+#header3-2e .mbr-section-title,
+#header3-2e .mbr-section-subtitle {
+  text-align: center;
+}
+#ext_menu-2c .hide-buttons .nav-btn {
+  display: none !important;
+}
+#ext_menu-2c .navbar-caption {
+  color: #ffffff;
+}
+#ext_menu-2c .navbar-toggler {
+  color: #ffffff;
+}
+#ext_menu-2c .close-icon::before,
+#ext_menu-2c .close-icon::after {
+  background-color: #ffffff;
+}
+#ext_menu-2c .link,
+#ext_menu-2c .dropdown-item {
+  color: #ffffff;
+  font-family: 'Roboto', sans-serif;
+}
+#ext_menu-2c .link {
+  font-size: 1.15rem;
+}
+#ext_menu-2c .dropdown-item,
+#ext_menu-2c .nav-dropdown-sm .link {
+  font-size: 1.245rem;
+}
+#ext_menu-2c .link:hover,
+#ext_menu-2c .dropdown-item:hover,
+#ext_menu-2c .link:focus,
+#ext_menu-2c .dropdown-item:focus {
+  color: #c0a375;
+}
+#ext_menu-2c .link[aria-expanded="true"],
+#ext_menu-2c .dropdown-menu {
+  background: #0e0e0e;
+}
+#ext_menu-2c .nav-dropdown-sm .link:focus,
+#ext_menu-2c .nav-dropdown-sm .link:hover,
+#ext_menu-2c .nav-dropdown-sm .dropdown-item:focus,
+#ext_menu-2c .nav-dropdown-sm .dropdown-item:hover {
+  background: #202020!important;
+}
+#ext_menu-2c .navbar,
+#ext_menu-2c .nav-dropdown-sm,
+#ext_menu-2c .nav-dropdown-sm .link[aria-expanded="true"],
+#ext_menu-2c .nav-dropdown-sm .dropdown-menu {
+  background: #282828;
+}
+#ext_menu-2c .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#ext_menu-2c .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#ext_menu-2c .bg-color.transparent.opened .link:hover,
+#ext_menu-2c .bg-color.transparent.opened .link:focus {
+  color: #c0a375;
+}
+#ext_menu-2c .link[aria-expanded="true"],
+#ext_menu-2c .dropdown-item[aria-expanded="true"] {
+  color: #c0a375!important;
+}
+#header3-2f .mbr-section-title,
+#header3-2f .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-2f SMALL {
+  font-family: 'Oswald', sans-serif;
+}
+#header3-2f H3 {
+  font-family: 'Oswald', sans-serif;
+}
+#content1-2g P {
+  font-family: 'Oswald', sans-serif;
+}
+#content1-2i P {
+  font-family: 'Oswald', sans-serif;
+  font-size: 22px;
+  color: #232323;
+}
+#content1-2j P {
+  font-family: 'Oswald', sans-serif;
+}
+#buttons1-2m .btn {
+  font-family: 'Oswald', sans-serif;
+}
