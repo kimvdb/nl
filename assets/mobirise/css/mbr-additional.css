@@ -817,6 +817,9 @@ h6,
   font-family: 'Oswald', sans-serif;
 }
 
+
+
+
 #header3-20 .mbr-section-title,
 #header3-20 .mbr-section-subtitle {
   text-align: center;
@@ -882,6 +885,19 @@ h6,
 #ext_menu-1y .link[aria-expanded="true"],
 #ext_menu-1y .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
+}
+#header3-2a .mbr-section-title,
+#header3-2a .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-2a H3 {
+  font-family: 'Oswald', sans-serif;
+}
+#content1-21 P {
+  font-family: 'Oswald', sans-serif;
+}
+#buttons1-23 .btn {
+  font-family: 'Oswald', sans-serif;
 }
 
 #header3-26 .mbr-section-title,
