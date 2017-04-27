@@ -26,7 +26,7 @@
     "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
     "google-analytics": "<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\r\n\r\n  ga('create', 'UA-77106520-1', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>",
     "versionFirst": "3.12.1",
-    "uniqCompNum": 67,
+    "uniqCompNum": 69,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -509,36 +509,16 @@
           ],
           "_name": "gallery2",
           "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "0",
+            "paddingTop": "2",
+            "paddingBottom": 4,
             "images": [
               {
-                "tags": "Awesome",
+                "tags": "Animated",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/15401103-1307681889284692-1432469079585862249-n-2000x2666-800x1066.jpg",
-                "image": "@PROJECT_PATH@/assets/images/15401103-1307681889284692-1432469079585862249-n-2000x2666.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/15578660-1315007705218777-2241362444802640750-n-2000x2666-800x1066.jpg",
-                "image": "@PROJECT_PATH@/assets/images/15578660-1315007705218777-2241362444802640750-n-2000x2666.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/14520555-1237363092983239-3351229450838445777-n-2000x2666-800x1066.jpg",
-                "image": "@PROJECT_PATH@/assets/images/14520555-1237363092983239-3351229450838445777-n-2000x2666.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/opbouw-ii-2000x2666-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/opbouw-ii-2000x2666.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -547,8 +527,28 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/14517534-1237363096316572-8124562956069134366-n-2000x2666-800x1066.jpg",
-                "image": "@PROJECT_PATH@/assets/images/14517534-1237363096316572-8124562956069134366-n-2000x2666.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/opbouw-i-2000x2666-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/opbouw-i-2000x2666.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/opbouw-iii-2000x2666-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/opbouw-iii-2000x2666.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/opbouw-iv-2000x2666-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/opbouw-iv-2000x2666.jpg",
                 "caption": "Type caption here",
                 "active": true
               }
@@ -561,7 +561,7 @@
             "fullWidth": true,
             "showBullets": true
           },
-          "_anchor": "gallery2-8",
+          "_anchor": "gallery2-1w",
           "articleLayout": false,
           "allItem": "All"
         }
@@ -942,10 +942,10 @@
           "_anchor": "content1-1r",
           "_params": {
             "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingBottom": "0",
             "bgColor": "#fff"
           },
-          "text": "<p>Bij ameode's werk ik vooral rond vormen, spanningsvelden en textuur.</p><p>Ze zijn geïnspireerd op interessante omtrekken van personen, dieren en objecten. Ik vertrek vanuit een ontwerp, een voorstudie om dan vervolgens de vorm te laten groeien vanuit de materie. Ik verander de vorm tijdens de opbouw zodanig dat het sterker word dan de originele vorm die ik voor ogen had. Het toeval toelaten in het proces waar er grote controle aan te pas komt.</p><p>Later van tijd ben ik deze vormen gaan beschouwen als levende wezens en ze beginnen doorsnijden met een mes. De huid open halen om zo spanning binnenin de vorm te creeëren. Ook hier kan je terug spelen met de controle van de insnedes: brut, krachtig, voorzichtig,...</p><p><br></p><p><br></p>"
+          "text": "<p>Bij ameode's werk ik vooral rond vormen, spanningsvelden en textuur.</p><p>Ze zijn geïnspireerd op interessante omtrekken van personen, dieren en objecten. Ik vertrek vanuit een ontwerp, een voorstudie om dan vervolgens de vorm te laten groeien vanuit de materie. Ik verander de vorm tijdens de opbouw zodanig dat het sterker word dan de originele vorm die ik voor ogen had. Het toeval toelaten in het proces waar er grote controle aan te pas komt.</p><p>Later van tijd ben ik deze vormen gaan beschouwen als levende wezens en ze beginnen doorsnijden met een mes. De huid open halen om zo spanning binnenin de vorm te creeëren. Ook hier kan je terug spelen met de controle van de insnedes: brut, krachtig, voorzichtig,...</p><p><br></p>"
         },
         {
           "_inherit": "gallery1",
@@ -1119,6 +1119,19 @@
           "_anchor": "gallery4-1t",
           "articleLayout": false,
           "allItem": "All"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-1v",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgColor": "#fff"
+          },
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://mobirise.com/mobirise-free-mac.zip\" data-toolbar=\"-mbrBtnMove\">Terug naar 'Werk'</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://mobirise.com/mobirise-free-mac.zip\" data-toolbar=\"-mbrBtnMove\">Feyti</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://mobirise.com/mobirise-free-mac.zip\" data-toolbar=\"-mbrBtnMove\">Nylon en interpretaties</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://mobirise.com/mobirise-free-mac.zip\" data-toolbar=\"-mbrBtnMove\">Glas</a>"
         }
       ]
     }
