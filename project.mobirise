@@ -311,7 +311,7 @@
             "bgVideoRadio": false,
             "overlay": true,
             "overlayOpacity": "0.2",
-            "overlayColor": "#7c706b",
+            "overlayColor": "#28324e",
             "inverse": false,
             "showTitle": true,
             "showText": true,
