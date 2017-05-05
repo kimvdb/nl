@@ -23,7 +23,7 @@
     },
     "favicon": "@PROJECT_PATH@/assets/images/logoklein-128x128.png",
     "noImageResize": "",
-    "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
+    "cookiesAlert": "We gebruiken cookies om de beste ervaring te garanderen. Lees onze <a href='privacy.html'>cookie policy</a>.",
     "google-analytics": "<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\r\n\r\n  ga('create', 'UA-77106520-1', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>",
     "versionFirst": "3.12.1",
     "uniqCompNum": 95,
@@ -123,7 +123,7 @@
               "src": "@PROJECT_PATH@/assets/images/logoklein-1-128x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://www.facebook.com/KimberlyVanderbekenCeramicsom",
+              "link": "https://www.facebook.com/KimberlyVanderbekenCeramics/?ref=py_c",
               "title": "",
               "linkInNewWindow": true
             },
@@ -265,7 +265,7 @@
               "src": "@PROJECT_PATH@/assets/images/logoklein-1-128x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://www.facebook.com/KimberlyVanderbekenCeramics",
+              "link": "https://www.facebook.com/KimberlyVanderbekenCeramics/?ref=py_c",
               "title": "",
               "linkInNewWindow": true
             },
@@ -433,7 +433,7 @@
               "src": "@PROJECT_PATH@/assets/images/logoklein-1-128x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://www.facebook.com/KimberlyVanderbekenCeramics",
+              "link": "https://www.facebook.com/KimberlyVanderbekenCeramics/?ref=py_c",
               "title": "",
               "linkInNewWindow": true
             },
@@ -661,7 +661,7 @@
               "src": "@PROJECT_PATH@/assets/images/logoklein-1-128x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://www.facebook.com/KimberlyVanderbekenCeramics",
+              "link": "https://www.facebook.com/KimberlyVanderbekenCeramics/?ref=py_c",
               "title": "",
               "linkInNewWindow": true
             },
@@ -958,7 +958,7 @@
               "src": "@PROJECT_PATH@/assets/images/logoklein-1-128x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://www.facebook.com/KimberlyVanderbekenCeramics",
+              "link": "https://www.facebook.com/KimberlyVanderbekenCeramics/?ref=py_c",
               "title": "",
               "linkInNewWindow": true
             },
@@ -1298,7 +1298,7 @@
               "src": "@PROJECT_PATH@/assets/images/logoklein-1-128x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://www.facebook.com/KimberlyVanderbekenCeramics",
+              "link": "https://www.facebook.com/KimberlyVanderbekenCeramics/?ref=py_c",
               "title": "",
               "linkInNewWindow": true
             },
@@ -1539,7 +1539,7 @@
               "src": "@PROJECT_PATH@/assets/images/logoklein-1-128x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://www.facebook.com/KimberlyVanderbekenCeramics",
+              "link": "https://www.facebook.com/KimberlyVanderbekenCeramics/?ref=py_c",
               "title": "",
               "linkInNewWindow": true
             },
@@ -1886,7 +1886,7 @@
               "src": "@PROJECT_PATH@/assets/images/logoklein-1-128x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://www.facebook.com/KimberlyVanderbekenCeramics",
+              "link": "https://www.facebook.com/KimberlyVanderbekenCeramics/?ref=py_c",
               "title": "",
               "linkInNewWindow": true
             },
