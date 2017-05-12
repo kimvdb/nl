@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site 3de bachelor NL",
-    "currentPage": "ameode.html",
+    "currentPage": "contact.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -717,7 +717,7 @@
           "form": {
             "action": "kimberlyvanderbeken95@gmail.com",
             "alerts": {
-              "success": "Dankuwel! "
+              "success": "Dankuwel voor uw bericht! U mag spoedig een antwoord verwachten."
             },
             "fields": {
               "name": {
