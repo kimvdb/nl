@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site 3de bachelor NL",
-    "currentPage": "contact.html",
+    "currentPage": "ameode.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -876,7 +876,7 @@
             "showMeta": true
           },
           "title": "Ameode",
-          "meta": "Jaar 2015-2017"
+          "meta": "Jaar 2014-2017"
         },
         {
           "_inherit": "menu",
