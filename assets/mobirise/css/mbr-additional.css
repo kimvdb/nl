@@ -913,6 +913,7 @@ h6,
 
 
 
+
 #header3-26 .mbr-section-title,
 #header3-26 .mbr-section-subtitle {
   text-align: center;
@@ -990,6 +991,9 @@ h6,
   font-family: 'Oswald', sans-serif;
 }
 #content1-27 P {
+  font-family: 'Oswald', sans-serif;
+}
+#content1-27 DIV {
   font-family: 'Oswald', sans-serif;
 }
 #gallery4-28 LI {
