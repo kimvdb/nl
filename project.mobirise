@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site 3de bachelor NL",
-    "currentPage": "ameode.html",
+    "currentPage": "home.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1373,8 +1373,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/feyti-i-2000x1500-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/feyti-i-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/feyti-ii-2000x3016-800x1206.jpg",
+                "image": "@PROJECT_PATH@/assets/images/feyti-ii-2000x3016.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1383,8 +1383,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/feyti-ii-2000x2666-800x1066.jpg",
-                "image": "@PROJECT_PATH@/assets/images/feyti-ii-2000x2666.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/feyti-iv-2000x3021-800x1208.jpg",
+                "image": "@PROJECT_PATH@/assets/images/feyti-iv-2000x3021.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1393,8 +1393,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/feyti-iii-2000x2666-800x1066.jpg",
-                "image": "@PROJECT_PATH@/assets/images/feyti-iii-2000x2666.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/feyti-i-2000x1324-800x529.jpg",
+                "image": "@PROJECT_PATH@/assets/images/feyti-i-2000x1324.jpg",
                 "caption": "Type caption here",
                 "active": true
               }
