@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site 3de bachelor NL",
-    "currentPage": "contact.html",
+    "currentPage": "feyti.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -26,7 +26,7 @@
     "cookiesAlert": "We gebruiken cookies om de beste ervaring te garanderen. Lees onze <a href='privacy.html'>cookie policy</a>.",
     "google-analytics": "<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\r\n\r\n  ga('create', 'UA-77106520-1', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>",
     "versionFirst": "3.12.1",
-    "uniqCompNum": 98,
+    "uniqCompNum": 101,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -1359,22 +1359,70 @@
           "text": "<p>Hier is de grens van controle en loslaten enorm belangrijk. Deze werken zijn geïnspireerd op morbide obesitas. Ze beschouwt deze niet als een afbeelding noch als  afschuw van de ziekte of beter van de mensen die hieraan lijden. Het is voor haar een ziekte eigen aan de maatschappij waarin we nu leven. Een ziekte waarin alle opgekropte emoties uiterlijk  zichtbaar worden.&nbsp;</p><p><br></p><p>Feyti’s zijn abstracte weergaves van die overschot aan vet, er is geen enkel menselijk punt van herkenning. Het zijn abstracte lichamen die ontstaan in de maatschappij waar sociale media prominent aanwezig zijn, waar isolement steeds vaker voorkomt in een maatschappij, waar de virtuele wereld zegeviert en onrealistische schoonheidsidealen voorop geplaats worden. Dit zijn in de eerste plaats herinneringen aan al die feiten en niet aan de afschuw die rond obesitas bestaat. Dit wil echter niet zeggen dat het haar bedoeling is om het op te hemelen.</p>"
         },
         {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-2r",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgColor": "#fff",
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/p1100146.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
+        },
+        {
           "_inherit": "gallery1",
           "_tags": [
             "Theme"
           ],
-          "_name": "gallery2",
+          "_name": "gallery4",
           "_params": {
             "paddingTop": "2",
-            "paddingBottom": "3",
+            "paddingBottom": "2",
             "images": [
               {
-                "tags": "Animated",
+                "tags": "Awesome",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/feyti-ii-800x1206.jpg",
-                "image": "@PROJECT_PATH@/assets/images/feyti-ii.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p1100158-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/p1100158.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p1100151-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/p1100151.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p1100150-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/p1100150.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1383,23 +1431,43 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/feyti-iv-800x1208.jpg",
-                "image": "@PROJECT_PATH@/assets/images/feyti-iv.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p1100156-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/p1100156.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
               {
-                "tags": "Animated",
+                "tags": "Awesome",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/feyti-i-800x529.jpg",
-                "image": "@PROJECT_PATH@/assets/images/feyti-i.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p1100143-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/p1100143.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p1100144-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/p1100144.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p1100152-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/p1100152.jpg",
                 "caption": "Type caption here",
                 "active": true
               }
             ],
-            "spacing": "1",
+            "spacing": 1,
             "showText": false,
             "filter": false,
             "bgColor": "fff",
@@ -1407,7 +1475,7 @@
             "fullWidth": true,
             "showBullets": true
           },
-          "_anchor": "gallery2-22",
+          "_anchor": "gallery4-2s",
           "articleLayout": false,
           "allItem": "All"
         },
